@@ -1,0 +1,21 @@
+{
+  "name": "node-express-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate node and express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Tas Pvt.Ltd",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3",
+    "body-parser": "1.18.2",
+    "co": "4.6.0",
+    "express": "4.16.2",
+    "express-validator": "4.3.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.4.10",
+    "path": "0.12.7"
+  }
+}
